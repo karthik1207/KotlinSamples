@@ -6,7 +6,7 @@
         "id": "account-summary",
         "name": "Account Summary",
         "description": "Account balances and quick actions card widget.",
-        "category": "financial",
+        "category": "acccounts",
         "type": "widget",
         "source": {
           "type": "npm",
