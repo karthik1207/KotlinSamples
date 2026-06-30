@@ -16,6 +16,19 @@
         "minGeneratorVersion": "2.0.0"
       },
       {
+        "id": "account-summary",
+        "name": "Account Summary",
+        "description": "Account balances and quick actions card widget.",
+        "category": "financial",
+        "type": "widget",
+        "source": {
+          "type": "npm",
+          "package": "@cdx-extensions/extension-template-mobile-account-summary",
+          "version": "1.0.0"
+        },
+        "minGeneratorVersion": "2.0.0"
+      },
+      {
         "id": "agent-feature",
         "name": "Agent Chat",
         "description": "Bring-your-own-agent full-screen chat feature.",
