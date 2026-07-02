@@ -6,27 +6,14 @@
         "id": "account-summary",
         "name": "Account Summary",
         "description": "Account balances and quick actions card widget.",
-        "category": "acccounts",
+        "category": "accounts",
         "type": "widget",
         "source": {
           "type": "npm",
           "package": "@cdx-extensions/extension-template-mobile-account-summary",
           "version": "1.0.0"
         },
-        "minGeneratorVersion": "2.0.0"
-      },
-      {
-        "id": "account-summary",
-        "name": "Account Summary",
-        "description": "Account balances and quick actions card widget.",
-        "category": "financial",
-        "type": "widget",
-        "source": {
-          "type": "npm",
-          "package": "@cdx-extensions/extension-template-mobile-account-summary",
-          "version": "1.0.0"
-        },
-        "minGeneratorVersion": "2.0.0"
+        "minGeneratorVersion": "1.0.0"
       },
       {
         "id": "agent-feature",
@@ -39,7 +26,7 @@
           "package": "@cdx-extensions/extension-template-mobile-agent-feature",
           "version": "1.0.0"
         },
-        "minGeneratorVersion": "2.0.0"
+        "minGeneratorVersion": "1.0.0"
       },
       {
         "id": "investment-portfolio",
@@ -52,7 +39,7 @@
           "package": "@cdx-extensions/extension-template-mobile-investment-portfolio",
           "version": "1.0.0"
         },
-        "minGeneratorVersion": "2.0.0"
+        "minGeneratorVersion": "1.0.0"
       }
     ]
   },
@@ -60,4 +47,3 @@
     "templates": []
   }
 }
-
