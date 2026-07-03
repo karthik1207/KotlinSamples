@@ -15,6 +15,19 @@
         },
         "minGeneratorVersion": "1.0.0"
       },
+       {
+        "id": "investment-portfolio",
+        "name": "Investment Portfolio",
+        "description": "Financial widget with donut chart, portfolio legend, and SDK branding hooks.",
+        "category": "accounts",
+        "type": "widget",
+        "source": {
+          "type": "npm",
+          "package": "@cdx-extensions/extension-template-mobile-investment-portfolio",
+          "version": "1.0.0"
+        },
+        "minGeneratorVersion": "1.0.0"
+      },
       {
         "id": "agent-feature",
         "name": "Agent Chat",
