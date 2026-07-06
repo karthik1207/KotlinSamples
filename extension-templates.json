@@ -10,7 +10,7 @@
         "type": "widget",
         "source": {
           "type": "npm",
-          "package": "@cdx-di-template/extension-template-mobile-investment-portfolio",
+          "package": "@cdx-templates-test/extension-template-mobile-investment-portfolio",
           "version": "1.0.0"
         },
         "minGeneratorVersion": "1.0.0"
