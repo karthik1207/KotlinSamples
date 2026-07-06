@@ -3,45 +3,6 @@
   "mobile": {
     "templates": [
       {
-        "id": "account-summary",
-        "name": "Account Summary",
-        "description": "Account balances and quick actions card widget.",
-        "category": "accounts",
-        "type": "widget",
-        "source": {
-          "type": "npm",
-          "package": "@cdx-extensions/extension-template-mobile-account-summary",
-          "version": "1.0.0"
-        },
-        "minGeneratorVersion": "1.0.0"
-      },
-       {
-        "id": "investment-portfolio",
-        "name": "Investment Portfolio",
-        "description": "Financial widget with donut chart, portfolio legend, and SDK branding hooks.",
-        "category": "accounts",
-        "type": "widget",
-        "source": {
-          "type": "npm",
-          "package": "@cdx-extensions/extension-template-mobile-investment-portfolio",
-          "version": "1.0.0"
-        },
-        "minGeneratorVersion": "1.0.0"
-      },
-      {
-        "id": "agent-feature",
-        "name": "Agent Chat",
-        "description": "Bring-your-own-agent full-screen chat feature.",
-        "category": "engagement",
-        "type": "feature",
-        "source": {
-          "type": "npm",
-          "package": "@cdx-extensions/extension-template-mobile-agent-feature",
-          "version": "1.0.0"
-        },
-        "minGeneratorVersion": "1.0.0"
-      },
-      {
         "id": "investment-portfolio",
         "name": "Investment Portfolio",
         "description": "Financial widget with donut chart, portfolio legend, and SDK branding hooks.",
@@ -49,7 +10,7 @@
         "type": "widget",
         "source": {
           "type": "npm",
-          "package": "@cdx-extensions/extension-template-mobile-investment-portfolio",
+          "package": "@cdx-di-template/extension-template-mobile-investment-portfolio",
           "version": "1.0.0"
         },
         "minGeneratorVersion": "1.0.0"
