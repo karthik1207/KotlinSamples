@@ -16,6 +16,19 @@
         "minGeneratorVersion": "1.0.0"
       },
       {
+        "id": "credit-score",
+        "name": "Credit Score",
+        "description": "Financial widget with score gauge, factor breakdown, and history.",
+        "category": "financial",
+        "type": "widget",
+        "source": {
+          "type": "npm",
+          "package": "@cdx-extensions/extension-template-mobile-credit-score",
+          "version": "1.0.0"
+        },
+        "minGeneratorVersion": "1.0.0"
+      },
+      {
         "id": "investment-portfolio",
         "name": "Investment Portfolio",
         "description": "Financial widget with donut chart, portfolio legend, and SDK branding hooks.",
