@@ -11,7 +11,7 @@
         "source": {
           "type": "npm",
           "package": "@cdx-extensions/extension-template-mobile-agent-chat",
-          "version": "1.0.1"
+          "version": "1.0.3-dev.1"
         },
         "minGeneratorVersion": "1.0.0"
       },
@@ -24,7 +24,7 @@
         "source": {
           "type": "npm",
           "package": "@cdx-extensions/extension-template-mobile-credit-score",
-          "version": "1.0.1"
+          "version": "1.0.3-dev.1"
         },
         "minGeneratorVersion": "1.0.0"
       },
@@ -37,7 +37,7 @@
         "source": {
           "type": "npm",
           "package": "@cdx-extensions/extension-template-mobile-investment-portfolio",
-          "version": "1.0.1"
+          "version": "1.0.3-dev.1"
         },
         "minGeneratorVersion": "1.0.0"
       },
@@ -50,7 +50,7 @@
         "source": {
           "type": "npm",
           "package": "@cdx-extensions/extension-template-mobile-sdk-integration-demo",
-          "version": "1.0.1"
+          "version": "1.0.3-dev.1"
         },
         "minGeneratorVersion": "1.0.0"
       }
